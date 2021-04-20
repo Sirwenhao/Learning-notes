@@ -58,5 +58,40 @@
   | ---------- | ------------------------------------------------------------ |
   |            |                                                              |
 
-- 
+- | voluminous | adj.Something that is voluminous is very large or contains a lot of things.庞大的;浩繁的;大部头的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | shred | v.If you shred something such as food or paper, you cut it or tear it into very small, narrow pieces.切碎;撕碎 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | futile | adj.If you say that something is futile, you mean there is no point in doing it, usually because it has no chance of succeeding.无益的;无用的;徒劳的 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | interrogation | n.An interrogation is the act of interrogating someone.讯问;审问 |
+  | ------------- | ------------------------------------------------------------ |
+  |               |                                                              |
+
+- | monstrous | adj.If you describe a situation or event as monstrous, you mean that it is extremely shocking or unfair.骇人听闻的;极不公正的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | vendor | n.A vendor is someone who sells things such as newspapers, cigarettes, or food from a small stall or cart.小贩;摊贩 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | proverbial | adj.You use pro- verbial to show that you know the way you are describing something is one that is often used or is part of a popular saying.谚语的；出自谚语的；常说的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | teller | n.A teller is someone who works in a bank and who customers pay money to or get money from.银行出纳员 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | commune | n.A commune is a group of people who live together and share everything.群居团体;社群;公社 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
 - 
