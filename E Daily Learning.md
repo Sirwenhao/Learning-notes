@@ -174,4 +174,96 @@ E Daily Learning
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
+- | parish | n.A parish is a village or part of a town which has its own church and priest.（有独立教堂和牧师的）教区，堂区 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | crunch | v.If you crunch something hard, such as a sweet, you crush it noisily between your teeth.嘎吱嘎吱地嚼 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | peddle | v.Someone who peddles things goes from place to place trying to sell them.到处叫卖；兜售 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | annex | v.If a country annexes another country or an area of land, it seizes it and takes control of it.并吞，占领（国家或地域） |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | loot | v.If people loot shops or houses, they steal things from them, for example during a war or riot.（战争、暴乱等时）洗劫，劫掠（商店或民宅） |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | projection | n.A projection is an estimate of a future amount.预计；预测；估计 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | overt | adj.An overt action or attitude is done or shown in an open and obvious way.公开的；明显的；不隐藏的 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | mar  | v.To mar something means to spoil or damage it.破坏;损坏;毁坏 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | ratify | v.When national leaders or organizations ratify a treaty or written agreement, they make it official by giving their formal approval to it, usually by signing it or voting for it.正式签署;批准;认可 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | fraud | n.Fraud is the crime of gaining money or financial benefits by a trick or by lying.诈骗;欺诈 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | mar  | v.To mar something means to spoil or damage it.破坏;损坏;毁坏 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | tuck | v.If you tuck something somewhere, you put it there so that it is safe, comfortable, or neat.把…塞入;把…藏入 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | stationery | n.Stationery is paper, envelopes, and other materials or equipment used for writing.文具 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | ruthless | adj.If you say that someone is ruthless, you mean that you disapprove of them because they are very harsh or cruel, and will do anything that is necessary to achieve what they want.无情的;残忍的;冷酷的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | resignation | n.Your resignation is a formal statement of your intention to leave a job or position.==辞职书;辞呈== |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | complexion | n.When you refer to someone's complexion, you are referring to the natural colour or condition of the skin on their face.==肤色;面色== |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | interrogate | v.If someone, especially a police officer, interrogates someone, they question them thoroughly for a long time in order to get some information from them.(尤指警察)讯问，审问 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | dough | n.Dough is a fairly firm mixture of flour, water, and sometimes also fat and sugar. It can be cooked to make bread, pastry, and biscuits.(用于制作面包等的)生面团 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | beckon | v.If you beckon to someone, you signal to them to come to you.==（招手）示意，召唤== |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | imperialist | adj.Imperialist means relating to or based on imperialism.帝国主义的 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | aristocracy | n.The aristocracy is a class of people in some countries who have a high social rank and special titles.贵族（阶层） |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | mediate | v.If someone mediates between two groups of people, or mediates an agreement between them, they try to settle an argument between them by talking to both groups and trying to find things that they can both agree to.调解;调停;斡旋 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | convoy | n.A convoy is a group of vehicles or ships travelling together.车队;舰队 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
 - 
