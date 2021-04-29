@@ -266,4 +266,124 @@ E Daily Learning
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
+- | slump | v.If something such as the value of something slumps, it falls suddenly and by a large amount.急剧下降;暴跌 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | binoculars | n.Binoculars consist of two small telescopes joined together side by side, which you look through in order to look at things that are a long way away.双筒望远镜 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | epic | n.An epic is a long book, poem, or film, whose story extends over a long period of time or tells of great events.史诗;叙事诗;史诗般的作品 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | potent | adj.Something that is potent is very effective and powerful.很有效的；强有力的 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | dessert | n.Dessert is something sweet, such as fruit or a pudding, that you eat at the end of a meal.（饭后）甜点 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | equitable | adj.Something that is equitable is fair and reasonable in a way that gives equal treatment to everyone.公平的;公正的;合理的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | whereabouts | n.If you refer to the whereabouts of a particular person or thing, you mean the place where that person or thing may be found.(人或物的)行踪，下落，所在之处 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | consul | n.A consul is ==an official who is sent by his or her government to live in a foreign city in order to look after all the people there that belong to his or her own country==.==领事== |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | marshal | v.If you marshal people or things, you gather them together and arrange them for a particular purpose.召集;收集;安排;组织 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | hack | v.If you hack something or hack at it, you cut it with strong, rough strokes using a sharp tool such as an axe or knife.劈;砍;乱劈;猛砍 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | tactful | adj.If you describe a person or what they say as tactful you approve of them because they are careful not to offend or upset another person.有分寸的;考虑周全的;圆通的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | containment | n.Containment is the action or policy of keeping another country's power or area of control within acceptable limits or boundaries.(对他国力量的)遏制 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | idiomatic | adj.Idiomatic language uses words in a way that sounds natural to native speakers of the language.地道的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | inertia | n.If you have a feeling of inertia, you feel very lazy and unwilling to move or be active.惰性;迟钝;怠惰 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | submission | n.Submission is a state in which people can no longer do what they want to do because they have been brought under the control of someone else.屈服;投降;归顺 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | intent | adj.If you are intent on doing something, you are eager and determined to do it.坚决的;下决心的 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | tact | n.Tact is the ability to avoid upsetting or offending people by being careful not to say or do things that would hurt their feelings.（言谈举止的）老练，圆通，得体，乖巧 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | sarcastic | adj.Someone who is sarcastic says or does the opposite of what they really mean in order to mock or insult someone.讽刺的;嘲笑的;挖苦的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | dart | v.If a person or animal darts somewhere, they move there suddenly and quickly.飞奔;猛冲 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | well-off | adj.Someone who is well-off is rich enough to be able to do and buy most of the things that they want.富裕的;家境好的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | doctrine | n.A doctrine is a set of principles or beliefs, especially religious ones.信条;主义;学说;（尤指）宗教教义 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | perch | v.If you perch on something, you sit down lightly on the very edge or tip of it.坐在…边缘；坐在…顶端 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | consolation | n.安慰, 使感到安慰的人（或物）, 慰藉 |
+  | ----------- | ------------------------------------ |
+  |             |                                      |
+
+- | ammunition | n.Ammunition is bullets and rockets that are made to be fired from guns.==弹药；军火== |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | familiarity | phrase.Familiarity is used especially in the expression familiarity breeds contempt to say that if you know a person or situation very well, you can easily lose respect for that person or become careless in that situation.==亲密生嫌隙；亲不敬，熟生蔑== |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | stagger | v.If you stagger, you walk very unsteadily, for example because you are ill or drunk.蹒跚;摇晃地走 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | zipper | n.A zipper is a device used to open and close parts of clothes and bags. It consists of two rows of metal or plastic teeth which separate or fasten together as you pull a small tag along them.==拉锁;拉链== |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | homely | adj.If you describe a room or house as homely, you like it because you feel comfortable and relaxed there.像家一样舒适的 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | exertion | n.努力，费力；行使，运用 |
+  | -------- | ------------------------ |
+  |          |                          |
+
+- | tricky | adj.If you describe a task or problem as tricky, you mean that it is difficult to do or deal with.==难办的;难对付的;棘手的== |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
 - 
