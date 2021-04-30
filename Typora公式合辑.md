@@ -244,12 +244,6 @@ f ( x ) = { 1 x ≥ 0 0 x &lt; 0 f(x)=
 
 *f*(*x*)={10*x*≥0*x*<0
 
-
-
-
-
-
-
 ### 4.希腊字母
 
 | 大写 | markdown      | 小写 | markdown    |
@@ -280,3 +274,162 @@ f ( x ) = { 1 x ≥ 0 0 x &lt; 0 f(x)=
 | X    | X or \Chi     | χ    | \chi        |
 | Ψ    | \Psi          | ψ    | \psi        |
 | Ω    | \Omega        | ω    | \omega      |
+
+### 5.基本语法
+
+### 标题[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#标题)
+
+> 标题是用`“#”`实现的，标题前面加一个`“#”`，代表一级标题；
+>
+> 依次类推，标题前面加六个`“#”`代表六级标题；
+>
+> 一共有六级标题，编辑各种文档完全够用。
+
+### 下划线[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#下划线)
+
+> 快捷键 `Ctrl+u（或cmd+u）`，即可实现下划线功能 。
+
+### 加粗强调[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#加粗强调)
+
+> 在要强调内容前后分别加`两个“*”` 号或者`两个“_”`号。
+
+### 文字背景强调[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#文字背景强调)
+
+> 在要强调内容前后分别加一个 ` 号。
+
+### 斜体[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#斜体)
+
+> 内容前后分别加`一个 “*”` 号。
+
+### 删除线[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#删除线)
+
+> 先转化成英文输入法，再把内容前后分别加上 `两个“~”` 号。
+
+### 高亮[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#高亮)
+
+> 内容前后分别加`两个“=”`。
+
+### 上标[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#上标)
+
+> 上标使用`^`包裹，例如：`y^2^=4`将产生表达式
+
+### 下标[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#下标)
+
+> 下标使用`~`包裹，例如：`H~2~O`将产生水的分子式。
+
+------
+
+## 列表 list[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#列表-list)
+
+### 目录列表生成[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#目录列表生成)
+
+> 输入 `[toc]` 然后回车，将会产生一个目录，这个目录抽取了文章的所有标题，自动更新内容。
+
+### 有序列表[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#有序列表)
+
+> 输入数字`“1”`+`“.”`+`空格` ， 自动开始有序列表。
+>
+> 例如：
+>
+> > ```
+> > 1. 吃饭
+> > 2. 睡觉
+> > 3. 打豆豆
+> > ```
+>
+> 生成内容：
+>
+> > 1. 吃饭
+> > 2. 睡觉
+> > 3. 打豆豆
+
+### 无序列表[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#无序列表)
+
+> 输入`“+”`或`“-”`或`“*”`+`空格`，自动开始无序列表。
+>
+> 例如：
+>
+> > ```
+> > - 吃饭
+> > - 睡觉
+> > - 打豆豆
+> > ```
+>
+> 生成内容：
+>
+> > - 吃饭
+> > - 睡觉
+> > - 打豆豆
+
+### 任务列表[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#任务列表)
+
+> 使用如下的代码创建任务列表，在 `[]` 中输入 `x` 表示完成，也可以通过点击选择完成或者没完成。
+>
+> 例如：
+>
+> > ```
+> > - [ ] 吃饭
+> > - [ ] 睡觉
+> > - [x] 打豆豆
+> > ```
+>
+> 生成内容：
+>
+> > - 吃饭
+> > - 睡觉
+> > - 打豆豆
+
+## 引用块[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#引用块)
+
+> 使用 `>` 来插入块引用。
+
+## 表格[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#表格)
+
+Ctrl+T（alt+cmd+T），在弹出的对话框中选择行列数，自动生成列表。 还可以很方便地对表格进行编辑。
+
+| 标题1   | 标题2   | 标题3   | 标题4   |
+| ------- | ------- | ------- | ------- |
+| 内容1-1 | 内容2-1 | 内容3-1 | 内容4-1 |
+| 内容1-2 | 内容2-2 | 内容3-2 | 内容4-2 |
+| 内容1-3 | 内容2-3 | 内容3-3 | 内容4-3 |
+
+## 分割线[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#分割线)
+
+> 输入三个或三个以上`*`（或`-`），再按回车键，即出现一条分割线。
+>
+> 例如：`***`、`---`
+
+------
+
+------
+
+## 标注[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#标注)
+
+> 我们可以对某一个词语进行标注。把鼠标放在`注释`上，将会有提示内容。
+>
+> 例如：
+>
+> > ```
+> > 某些人用过了才知道[^注释]
+> > [^注释]: Somebody that I used to know.
+> > ```
+>
+> 生成内容：
+>
+> > 某些人用过了才知道[[1\]](https://juejin.im/post/6844903776755662855#fn1)
+
+## 插入[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#插入)
+
+### 图片[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#图片)
+
+- 插入本地图片：直接把图片拖入即可
+- 插入网络图片: `[图片标题](图片链接)`。
+
+### 链接[#](https://www.cnblogs.com/luckforefforts/p/13642696.html#链接)
+
+> 使用方法： `[链接提示]+(链接地址)`。
+>
+> 例如： `[点此进入TYpora官网下载](https://typora.io/)`
+>
+> 生成内容：[点此进入TYpora官网下载](https://typora.io/)
+
