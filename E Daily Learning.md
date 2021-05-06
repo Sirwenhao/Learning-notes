@@ -386,4 +386,37 @@ E Daily Learning
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
+- | convoy | n.A convoy is a group of vehicles or ships travelling together.车队;舰队 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | tuck | v.If you tuck something somewhere, you put it there so that it is safe, comfortable, or neat.把…塞入;把…藏入 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | peddle | v.Someone who peddles things goes from place to place ==trying to sell them==.到处叫卖；==兜售== |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | visa | n.A visa is an official document, or a stamp put in your passport, which allows you to enter or leave a particular country.（护照的）签证 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | petty | adj.You can use petty to describe things such as problems, rules, or arguments which you think are unimportant or relate to unimportant things.微不足道的；不重要的 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | subsistence | n.Subsistence is the condition of just having enough food or money to stay alive.勉强维持生活;生存;存活 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | perilous | adj.Something that is perilous is very dangerous.危险的；艰险的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | dub  | v.If someone or something is dubbed a particular thing, they are given that description or name.给…起绰号;把…称作 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
 - 
+
