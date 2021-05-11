@@ -418,5 +418,76 @@ E Daily Learning
   | ---- | ------------------------------------------------------------ |
   |      |                                                              |
 
-- 
+- | trim | adj.Something that is trim is neat, tidy, and attractive.整齐的;美观整洁的 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
 
+- | topple | v.If someone or something topples somewhere or if you topple them, they become unsteady or unstable and fall over.(使)摇摇欲坠;(使)不稳而倒下 |
+  | :----: | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | exp==a==nsive | adj.If something is expansive, it covers or includes a large area or many things.广袤的;==辽阔的==;全面的 |
+  | ------------- | ------------------------------------------------------------ |
+  |               |                                                              |
+
+- | ==mow== | v.If you mow an area of grass, you cut it using a machine called a lawn mower.(用割草机)割，刈 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | outfit | n.An outfit is a set of clothes.全套服装 |
+  | ------ | ---------------------------------------- |
+  |        |                                          |
+
+- | binoculars | n.Binoculars consist of two small telescopes joined together side by side, which you look through in order to look at things that are a long way away.双筒望远镜 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | possessive | adj.Someone who is possessive about another person wants all that person's love and attention.占有欲强的；有控制欲的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | ==meritorious== | adj.If you describe something as meritorious, you approve of it for its good or worthwhile qualities.==优异的;有价值的== |
+  | --------------- | ------------------------------------------------------------ |
+  |                 |                                                              |
+
+- | ==waiver== | n.A waiver is when a person, government, or organization agrees to give up a right or says that people do not have to obey a particular rule or law.==权利放弃,弃权;(规则或法律的)不强求执行== |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | detergent | n.Detergent is a chemical substance, usually in the form of a powder or liquid, which is used for washing things such as clothes or dishes.洗涤剂;去垢剂 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | ==tact== | n.Tact is the ability to avoid upsetting or offending people by being careful not to say or do things that would hurt their feelings.==（言谈举止的）老练，圆通，得体，乖巧== |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | ==coup== | n.When there is a coup, a group of people seize power in a country.==政变== |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | ==ardent== | adj.Ardent is used to describe someone who has extremely strong feelings about something or someone.==热情的;热烈的;激动的== |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | delegation | n.A delegation is a group of people who have been sent somewhere to have talks with other people on behalf of a larger group of people.代表团 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | ==aftermath== | n.The aftermath of an important event, especially a harmful one, is the situation that results from it.==后果；余波== |
+  | ------------- | ------------------------------------------------------------ |
+  |               |                                                              |
+
+- | monumental | adj.You can use monumental to emphasize the size or extent of something.巨大的;极大的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | sparingly | adv.很少, 细嚼慢咽地, 节俭地 |
+  | --------- | ---------------------------- |
+  |           | ****                         |
+
+- | pathetic | adj.If you describe a person or animal as pathetic, you mean that they are sad and weak or helpless, and they make you feel very sorry for them.可怜的；令人怜悯的；悲惨的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- 
