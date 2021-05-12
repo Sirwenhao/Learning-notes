@@ -490,4 +490,36 @@ E Daily Learning
   | -------- | ------------------------------------------------------------ |
   |          |                                                              |
 
+- | pretext | n.A pretext is a reason which you pretend has caused you to do something.借口；托词 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | clench | v.When you clench your fist or your fist clenches, you curl your fingers up tightly, usually because you are very angry.攥紧(拳头)；(拳头)紧握 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | crunch | v.If you crunch something hard, such as a sweet, you crush it noisily between your teeth.嘎吱嘎吱地嚼 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | choosy | adj.Someone who is choosy is difficult to please because they will only accept something if it is exactly what they want or if it is of very high quality.挑剔的;过分讲究的 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | plea | n.A plea is an appeal or request for something, made in an intense or emotional way.恳求；请求 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | sack | n.A sack is a large bag made of rough woven material. Sacks are used to carry or store things such as vegetables or coal.麻布袋;粗布袋;厚纸袋;大口袋 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | fling | v.If you fling something somewhere, you throw it there using a lot of force.猛掷;用力抛 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | parish | n.A parish is a village or part of a town which has its own church and priest.（有独立教堂和牧师的）教区，堂区 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
 - 
