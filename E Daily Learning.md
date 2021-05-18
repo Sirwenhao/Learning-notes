@@ -522,4 +522,156 @@ E Daily Learning
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
+- | customary | adj.Customary is used to describe things that people usually do in a particular society or in particular circumstances.习俗的;习惯的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | appal | v.If something appals you, it disgusts you because it seems so bad or unpleasant.使厌恶；使惊骇 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | suffice | v.If you say that something will suffice, you mean it will be enough to achieve a purpose or to fulfil a need.足够;充足 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | chant | n.A chant is a word or group of words that is repeated over and over again.不断重复的话 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | prop | v.If you prop an object on or against something, you support it by putting something underneath it or by resting it somewhere.架；搁；靠 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | recite | v.When someone recites a poem or other piece of writing, they say it aloud after they have learned it.朗诵;背诵;朗读 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | well-off | adj.Someone who is well-off is rich enough to be able to do and buy most of the things that they want.富裕的;家境好的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | forfeit | v.If you forfeit something, you lose it or are forced to give it up because you have broken a rule or done something wrong.(因违反规定等)被没收，丧失 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | trickle | v.When a liquid trickles, or when you trickle it, it flows slowly in very small amounts.(使)滴;(使)淌 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | fraud | n.Fraud is the crime of gaining money or financial benefits by a trick or by lying.诈骗;欺诈 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | besiege | v.If you are besieged by people, many people want something from you and continually bother you.烦扰；纠缠 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | grim | adj.A situation or piece of information that is grim is unpleasant, depressing, and difficult to accept.严峻的；令人不快的；让人沮丧的；令人难以接受的 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | seizure | n.If someone has a seizure, they have a sudden violent attack of an illness, especially one that affects their heart or brain.(尤指心脏病或脑部疾病的)突然发作，侵袭 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | exponent | n.An exponent of an idea, theory, or plan is a person who supports and explains it, and who tries to persuade other people that it is a good idea.阐述者;拥护者;倡导者 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | disarmament | n.Disarmament is the act of reducing the number of weapons, especially nuclear weapons, that a country has.裁军;裁减军备(尤指核武器) |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | tray | n.A tray is a flat piece of wood, plastic, or metal, which usually has raised edges and which is used for carrying things, especially food and drinks.托盘;盘;碟 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | pollster | n.A pollster is a person or organization who asks large numbers of people questions to find out their opinions on particular subjects.民意调查人；民意测验机构 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | deter | v.To deter someone from doing something means to make them not want to do it or continue doing it.威慑住;吓住;阻止;制止 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | antagonistic | adj.If a person is antagonistic to someone or something, they show hatred or dislike towards them.对抗的；敌对的；有敌意的 |
+  | ------------ | ------------------------------------------------------------ |
+  |              |                                                              |
+
+- | hoist | v.If you hoist something heavy somewhere, you lift it or pull it up there.举起;抬起;拉起 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | incumbent | n.An incumbent is someone who holds an official post at a particular time.现任官员;在职官员 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | aisle | n.An aisle is a long narrow gap that people can walk along between rows of seats in a public building such as a church or between rows of shelves in a supermarket.（教堂等公共建筑物里座席间或超市货架间的）纵直通道，走道 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | knotty | adj.A knotty problem is complicated and difficult to solve.复杂的；难以解决的；棘手的 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | indigenous | adj.Indigenous people or things belong to the country in which they are found, rather than coming there or being brought there from another country.当地的;本土的;土生土长的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | superintendent | n.In Britain, a superintendent is a senior police officer of the rank above an inspector. In the United States, a superintendent is the head of a police department.(英国的)警司;(美国的)警察局局长 |
+  | -------------- | ------------------------------------------------------------ |
+  |                |                                                              |
+
+- | cynicism | n.Cynicism is the belief that people always act selfishly.认为世人皆自私的观念;愤世嫉俗 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | sustainability | n.持续性，耐久性，永续性 |
+  | -------------- | ------------------------ |
+  |                |                          |
+
+- | humiliate | v.To humiliate someone means to say or do something which makes them feel ashamed or stupid.羞辱;使蒙羞;使出丑 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | stewardess | n.A stewardess is a woman who works on a ship, plane, or train, looking after passengers and serving meals to them.(船舶、飞机或火车上的)女服务员，女乘务员 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | rig  | v.If someone rigs an election, a job appointment, or a game, they dishonestly arrange it to get the result they want or to give someone an unfair advantage.(以不正当的手段)操纵，控制(选举、工作任命或比赛等) |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | unleash | v.If you say that someone or something unleashes a powerful force, feeling, activity, or group, you mean that they suddenly start it or send it somewhere.释放；放纵…而出 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | forgery | n.Forgery is the crime of forging money, documents, or paintings.伪造罪 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | limelight | n.If someone is in the limelight, a lot of attention is being paid to them, because they are famous or because they have done something very unusual or exciting.公众注意的中心 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | aversion | n.If you have an aversion to someone or something, you dislike them very much.厌恶；讨厌；反感 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | ruthless | adj.If you say that someone is ruthless, you mean that you disapprove of them because they are very harsh or cruel, and will do anything that is necessary to achieve what they want.无情的;残忍的;冷酷的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | remnant | n.The remnants of something are small parts of it that are left over when the main part has disappeared or been destroyed.剩余部分;残余部分;残迹;残存物 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | sanctuary | n.A sanctuary is a place where people who are in danger from other people can go to be safe.避难所;庇护所;躲避处 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | ward | n.A ward is a room in a hospital which has beds for many people, often people who need similar treatment.病房;病室 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
 - 
