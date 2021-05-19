@@ -674,4 +674,37 @@ E Daily Learning
   | ---- | ------------------------------------------------------------ |
   |      |                                                              |
 
+- | meritorious | adj.If you describe something as meritorious, you approve of it for its good or worthwhile qualities.优异的;有价值的 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | gorge | n.A gorge is a deep, narrow valley with very steep sides, usually where a river passes through mountains or an area of hard rock.峡；峡谷 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | consolation | n.安慰, 使感到安慰的人（或物）, 慰藉 |
+  | ----------- | ------------------------------------ |
+  |             |                                      |
+
+- | attributable | adj.If something is attributable to an event, situation, or person, it is likely that it was caused by that event, situation or person.可归因于…的，可归结于…的 |
+  | ------------ | ------------------------------------------------------------ |
+  |              |                                                              |
+
+- | perch | v.If you perch on something, you sit down lightly on the very edge or tip of it.坐在…边缘；坐在…顶端 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | pushy | adj.If you describe someone as pushy, you mean that they try in a forceful way to get things done as they would like or to increase their status or influence.固执己见的；一意孤行的；爱出风头的 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | ==confederate== | n.Someone's confederates are the people they are ==working with in a secret activity==.==(秘密活动的)同伙，同党，同谋== |
+  | --------------- | ------------------------------------------------------------ |
+  |                 |                                                              |
+
+- | topple | v.If someone or something topples somewhere or if you topple them, they become unsteady or unstable and fall over.(使)摇摇欲坠;(使)不稳而倒下 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- 
 - 
