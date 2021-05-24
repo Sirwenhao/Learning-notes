@@ -706,5 +706,192 @@ E Daily Learning
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- 
+- | residential | adj.A residential area contains houses rather than offices or factories.居住的;住宅区的;居民区的 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | solidarity | n.If a group of people show solidarity, they show support for each other or for another group, especially in political or international affairs.(尤指政治或国际事务中的)团结一致，相互支持 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | ==thrifty== | adj.If you say that someone is thrifty, you are praising them for saving money, ==not buying unnecessary things==, and not wasting things.==节俭的;节省的;节约的== |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | inhibit | v.If something inhibits an event or process, it prevents it or slows it down.抑制;约束 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | bust | v.If you bust something, you ==break it== or damage it so badly that it cannot be used.==打碎；破坏== |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | ==ardent== | adj.Ardent is used to describe someone who has extremely strong feelings about something or someone.==热情的;热烈的;激动的== |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | mete | v.〈诗〉量, 评定(功过), 派定, 分给 |
+  | ---- | ---------------------------------- |
+  |      |                                    |
+
+- | pleading | adj.A pleading expression or gesture shows someone that you want something very much.（表情或姿态）恳求的，请求的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | credulous | adj.If you describe someone as credulous, you have a low opinion of them because they are too ready to believe what people tell them and are easily deceived.轻信的;易受骗的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | dispel | v.To dispel an idea or feeling that people have means to stop them having it.驱散;消除 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | veritable | adj.You can use veritable to emphasize the size, amount, or nature of something.真正的，十足的，不折不扣的（用于强调大小、数量或性质等） |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | adorn | v.If something adorns a place or an object, it makes it look more beautiful.装饰；装扮 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | capsize | v.If you capsize a boat or if it capsizes, it turns upside down in the water.(使)(船)倾覆；（使）（船）翻沉 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | lodge | n.A lodge is a house or hut in the country or in the mountains where people stay on holiday, especially when they want to shoot or fish.（乡间或山里的）度假屋，小舍（尤用于狩猎或钓鱼时暂住） |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | emit | v.If something emits heat, light, gas, or a smell, it produces it and sends it out by means of a physical or chemical process.发出，排放，散发（热、光、气或气味） |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | asterisk | n.An asterisk is the sign *. It is used especially to indicate that there is further information about something in another part of the text.星号（即*，尤用于表示文中另外一处有更多信息） |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | dilapidated | adj.A building that is dilapidated is old and in a generally bad condition.（建筑物）失修的，破旧的，破败不堪的 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | nostril | n.Your nostrils are the two openings at the end of your nose.鼻孔 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | lodge | n.A lodge is a house or hut in the country or in the mountains where people stay on holiday, especially when they want to shoot or fish.（乡间或山里的）度假屋，小舍（尤用于狩猎或钓鱼时暂住） |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | rag  | n.A rag is a piece of old cloth which you can use to clean or wipe things.抹布；破布；碎布 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | perturb | v.If something perturbs you, it worries you quite a lot.使焦虑；使不安 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | gangster | n.A gangster is a member of an organized group of violent criminals.黑帮成员；匪徒 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | exhilaration | n.Exhilaration is a strong feeling of excitement and happiness.兴高采烈;兴奋 |
+  | ------------ | ------------------------------------------------------------ |
+  |              |                                                              |
+
+- | wreath | n.A wreath is an arrangement of flowers and leaves, usually in the shape of a circle, which you put on a grave or by a statue to show that you remember a person who has died or people who have died.（用于祭奠的）花圈 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | perch | v.If you perch on something, you sit down lightly on the very edge or tip of it.坐在…边缘；坐在…顶端 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | arduous | adj.Something that is arduous is difficult and tiring, and involves a lot of effort.困难的；艰巨的；费力的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | wreath | n.A wreath is an arrangement of flowers and leaves, usually in the shape of a circle, which you put on a grave or by a statue to show that you remember a person who has died or people who have died.（用于祭奠的）花圈 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | exhilaration | n.Exhilaration is a strong feeling of excitement and happiness.兴高采烈;兴奋 |
+  | ------------ | ------------------------------------------------------------ |
+  |              |                                                              |
+
+- | backwater | n.A backwater is a place that is isolated.闭塞的地方；与世隔绝的地方 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | grudge | n.If you have or bear a grudge against someone, you have unfriendly feelings towards them because of something they did in the past.不满；积怨；怨恨 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | immaculate | adj.If you describe something as immaculate, you mean that it is extremely clean, tidy, or neat.干净整洁的;纤尘不染的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | aphid | n.Aphids are very small insects which live on plants and suck their juices.蚜虫 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | milometer | n.里程表, 计程器 |
+  | --------- | ---------------- |
+  |           |                  |
+
+- | aphid | n.Aphids are very small insects which live on plants and suck their juices.蚜虫 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | mammoth | adj.You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve.（改变）巨大的，重大的；（任务）庞大的，艰巨的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | immaculate | adj.If you describe something as immaculate, you mean that it is extremely clean, tidy, or neat.干净整洁的;纤尘不染的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | aphid | n.Aphids are very small insects which live on plants and suck their juices.蚜虫 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | pneumatic | adj.A pneumatic drill is operated by air under pressure and is very powerful. Pneumatic drills are often used for digging up roads.压缩空气推动（操作）的；风动的；气动的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | quintuplet | n.五胞胎之一 |
+  | ---------- | ------------ |
+  |            |              |
+
+- | praying mantis | n.螳螂 |
+  | -------------- | ------ |
+  |                |        |
+
+- | hoax | n.A hoax is a trick in which someone tells people a lie, for example that there is a bomb somewhere when there is not, or that a picture is genuine when it is not.恶作剧;假警报;骗局 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | gaily | adv.If you do something gaily, you do it in a lively, happy way.快乐地；喜气洋洋地 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | luscious | adj.If you describe a woman or something about her as luscious, you mean that you find her or this thing sexually attractive.妖娆的；性感的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | dawdle | v.If you dawdle, you spend more time than is necessary going somewhere.闲逛;游荡 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | horde | n.If you describe a crowd of people as a horde, you mean that the crowd is very large and excited and, often, rather frightening or unpleasant.（熙攘、纷扰的）一大帮人，一大伙人 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | gesticulate | v.If you gesticulate, you make movements with your arms or hands, often while you are describing something that is difficult to express in words.做手势；用手势表达；用动作示意 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | horde | n.If you describe a crowd of people as a horde, you mean that the crowd is very large and excited and, often, rather frightening or unpleasant.（熙攘、纷扰的）一大帮人，一大伙人 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
 - 
