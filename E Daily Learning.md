@@ -894,4 +894,109 @@ E Daily Learning
   | ----- | ------------------------------------------------------------ |
   |       |                                                              |
 
+- | cockcrow | n.〈文学〉黎明, 破晓 |
+  | -------- | -------------------- |
+  |          |                      |
+
+- | adamant | adj.If someone is adamant about something, they are determined not to change their mind about it.坚决的;坚定不移的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | quintuplet | n.五胞胎之一 |
+  | ---------- | ------------ |
+  |            |              |
+
+- | dangle | v.If something dangles from somewhere or if you dangle it somewhere, it hangs or swings loosely.悬挂;悬摆 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | delusion | n.A delusion is a false idea.错觉;谬见;误会 |
+  | -------- | ------------------------------------------- |
+  |          |                                             |
+
+- | pastoral | adj.The pastoral duties of a priest or other religious leader involve looking after the people he or she has responsibility for, especially by helping them with their personal problems.牧师的；牧灵的；教牧的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | ivory | n.Ivory is a hard cream-coloured substance which forms the tusks of elephants. It is valuable and can be used for making carved ornaments.象牙 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | provocation | n.If you describe a person's action as provocation or a provocation, you mean that it is a reason for someone else to react angrily, violently, or emotionally.挑衅；煽动；刺激；激怒 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | glisten | v.If something glistens, it shines, usually because it is wet or oily.（因湿润或油腻而）闪闪发光 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | recluse | n.A recluse is a person who lives alone and deliberately avoids other people.隐居者；隐士 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | luscious | adj.If you describe a woman or something about her as luscious, you mean that you find her or this thing sexually attractive.妖娆的；性感的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | mammoth | adj.You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve.（改变）巨大的，重大的；（任务）庞大的，艰巨的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | outlandish | adj.If you describe something as outlandish, you disapprove of it because you think it is very unusual, strange, or unreasonable.稀奇古怪的；异乎寻常的；不切实际的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | oddly | adv.You use oddly to indicate that what you are saying is true, but that it is not what you expected.奇怪的是；说来也怪 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | arduous | adj.Something that is arduous is difficult and tiring, and involves a lot of effort.困难的；艰巨的；费力的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | fumble | v.If you fumble for something or fumble with something, you try and reach for it or hold it in a clumsy way.乱摸;摸索;笨拙地处理 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | invisible | adj.If you describe something as invisible, you mean that it cannot be seen, for example because it is transparent, hidden, or very small.看不见的;隐形的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | dashboard | n.The dashboard in a car is the panel facing the driver's seat where most of the instruments and switches are.(汽车的）仪表板 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | solitude | n.Solitude is the state of being alone, especially when this is peaceful and pleasant.(尤指平静愉快的)独居，独处 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | torpedo | n.A torpedo is bomb that is shaped like a tube and that travels under water.鱼雷；水雷 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | musty | adj.Something that is musty smells old and damp.有霉味的;发霉的 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | marquis | n.A marquis is a male member of the nobility who has a rank between duke and earl.侯爵 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | paratrooper | n.Paratroopers are soldiers who are trained to be dropped by parachute into battle or into enemy territory.伞兵；空降兵 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | reprimand | v.If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.训斥;斥责;谴责 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | bedraggled | adj.Someone or something that is bedraggled looks untidy because they have got wet or dirty.湿漉漉的；乱蓬蓬的；脏兮兮的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | promontory | n.A promontory is a cliff that stretches out into the sea.岬；海角 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
 - 
+
