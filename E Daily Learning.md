@@ -998,5 +998,101 @@ E Daily Learning
   | ---------- | ------------------------------------------------------------ |
   |            |                                                              |
 
+- | brigade | n.A brigade is one of the groups which an army is divided into.旅 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | blot | n.If something is a blot on a person's or thing's reputation, it spoils their reputation.（名誉上的）污点，耻辱 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | credulous | adj.If you describe someone as credulous, you have a low opinion of them because they are too ready to believe what people tell them and are easily deceived.轻信的;易受骗的 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | fussy | adj.Someone who is fussy is very concerned with unimportant details and is difficult to please.过分注重细节的;爱挑剔的;难以取悦的 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | aphid | n.Aphids are very small insects which live on plants and suck their juices.蚜虫 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | rudder | n.A rudder is a device for steering a boat. It consists of a vertical piece of wood or metal at the back of the boat.(船的)舵，方向舵 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | ransack | v.If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.搜寻；搜遍；洗劫 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | hawser | n.A hawser is a large heavy rope, especially one used on a ship.（尤指船上的）缆索 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | syllable | n.A syllable is a part of a word that contains a single vowel sound and that is pronounced as a unit. So, for example, 'book' has one syllable, and 'reading' has two syllables.音节 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | architectural | adj.Architectural means relating to the design and construction of buildings.建筑学的；建筑上的 |
+  | ------------- | ------------------------------------------------------------ |
+  |               |                                                              |
+
+- | muffle | v.If something muffles a sound, it makes it quieter and more difficult to hear.使(声音)低沉;使(音量)减弱 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | potholing | n.Potholing is the leisure activity of going into underground caves and tunnels.洞穴探险 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | dagger | n.A dagger is a weapon like a knife with two sharp edges.匕首;短剑 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | accomplishment | n.An accomplishment is something remarkable that has been done or achieved.成就;成绩 |
+  | -------------- | ------------------------------------------------------------ |
+  |                |                                                              |
+
+- | insurmountable | adj.A problem that is insurmountable is so great that it cannot be dealt with successfully.无法解决的;难以克服的;不可逾越的 |
+  | -------------- | ------------------------------------------------------------ |
+  |                |                                                              |
+
+- | dweller | n.A city dweller or slum dweller, for example, is a person who lives in the kind of place or house indicated.居民;居住者 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | arduous | adj.Something that is arduous is difficult and tiring, and involves a lot of effort.困难的；艰巨的；费力的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | wheelbarrow | n.A wheelbarrow is a small open cart with one wheel and handles that is used for carrying things, for example in the garden.(园艺等用的) 手推车，独轮推车 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | dawdle | v.If you dawdle, you spend more time than is necessary going somewhere.闲逛;游荡 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | burgle | v.If a building is burgled, a thief enters it by force and steals things.破门盗窃；入室盗窃 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | unshakable | adj.If you describe someone's beliefs as unshakeable, you are emphasizing that they are so strong that they cannot be destroyed or altered.不可动摇的；坚定的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | tint | n.A tint is a small amount of colour.(少许)色彩；色调 |
+  | ---- | ----------------------------------------------------- |
+  |      |                                                       |
+
+- | revulsion | n.Someone's revulsion at something is the strong feeling of disgust or disapproval they have towards it.深恶痛绝;强烈反对;嫌恶 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | fete | n.A fete is an event that is usually held outdoors and includes competitions, entertainments, and the selling of used and home-made goods.露天游乐会(通常在户外举行，包括竞赛、娱乐及出售旧货和家制商品) |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
 - 
 
