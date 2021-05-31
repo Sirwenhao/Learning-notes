@@ -1094,5 +1094,81 @@ E Daily Learning
   | ---- | ------------------------------------------------------------ |
   |      |                                                              |
 
-- 
+- | listeria | n.利斯特菌 |
+  | -------- | ---------- |
+  |          |            |
 
+- | ransack | v.If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.搜寻；搜遍；洗劫 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | reprimand | v.If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.训斥;斥责;谴责 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | unsettle | v.If something unsettles you, it makes you feel rather worried or uncertain.使不安；使担心 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | inscribe | v.If you inscribe words on an object, you write or carve the words on the object.写;刻;雕 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | hoax | n.A hoax is a trick in which someone tells people a lie, for example that there is a bomb somewhere when there is not, or that a picture is genuine when it is not.恶作剧;假警报;骗局 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | mammoth | adj.You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve.（改变）巨大的，重大的；（任务）庞大的，艰巨的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | assail | v.If someone assails you, they criticize you strongly.猛烈抨击；强烈指责 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | muffle | v.If something muffles a sound, it makes it quieter and more difficult to hear.使(声音)低沉;使(音量)减弱 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | chug | v.When a vehicle chugs somewhere, it goes there slowly, noisily and with difficulty.(车辆)突突地缓慢行驶 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | whine | v.If something or someone whines, they make a long, high-pitched noise, especially one which sounds sad or unpleasant.尖叫;哀号;悲鸣 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | rambling | adj.A rambling building is big and old with an irregular shape.（建筑）大而无当的，格局凌乱的 |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | feline | adj.Feline means belonging or relating to the cat family.猫的;猫科的 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | assail | v.If someone assails you, they criticize you strongly.猛烈抨击；强烈指责 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | winch | n.A winch is a machine which is used to lift heavy objects or people who need to be rescued. It consists of a drum around which a rope or chain is wound.绞车;卷扬机 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | lull | n.A lull is a period of quiet or calm in a longer period of activity or excitement.间歇期；平静期 |
+  | ---- | ------------------------------------------------------------ |
+  |      |                                                              |
+
+- | musty | adj.Something that is musty smells old and damp.有霉味的;发霉的 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | immaculate | adj.If you describe something as immaculate, you mean that it is extremely clean, tidy, or neat.干净整洁的;纤尘不染的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | unduly | adv.If you say that something does not happen or is not done unduly, you mean that it does not happen or is not done to an excessive or unnecessary extent.过分地；过度地；不适当地；不必要地 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- 
+- 
