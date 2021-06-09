@@ -1170,5 +1170,133 @@ E Daily Learning
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
+- | glint | v.If something glints, it produces or reflects a quick flash of light.闪闪发光；闪亮 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- | dangle | v.If something dangles from somewhere or if you dangle it somewhere, it hangs or swings loosely.悬挂;悬摆 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | bedraggled | adj.Someone or something that is bedraggled looks untidy because they have got wet or dirty.湿漉漉的；乱蓬蓬的；脏兮兮的 |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | petrify | v.If something petrifies you, it makes you feel very frightened.使吓呆；使惊呆 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | burgle | v.If a building is burgled, a thief enters it by force and steals things.破门盗窃；入室盗窃 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | plaster | n.Plaster is a smooth paste made of sand, lime, and water which goes hard when it dries. Plaster is used to cover walls and ceilings and is also used to make sculptures.灰泥；灰浆；熟石膏 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | unscrew | v.If you unscrew something such as a lid, or if it unscrews, you keep turning it until you can remove it.拧开；旋开 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | ==moor== | n.A moor is an area of open and usually high land with poor soil that is covered mainly with grass and heather.==(主要生长杂草和石南的)高原贫瘠之地，荒野，旷野== |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | ==lurk== | v.If someone lurks somewhere, they wait there secretly so that they cannot be seen, usually because they intend to do something bad.==（通常指意图不轨地）潜伏，潜藏，埋伏== |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- shiver 
+
+- v. 颤抖，哆嗦；打碎
+
+- n. 颤抖，哆嗦；（因恐惧产生的）寒颤；碎片
+
+  
+
+- inanimate 
+
+- adj. 无生命的；无生气的 .appearing dead; not breathing or having no perceptible pulse
+
+  
+
+- upswing
+- n. 上升；增加；向上摆动
+- vi. 提高；回升；向上摆动
+
+- at one stroke，at one fell swoop
+
+- | scour | v.If you scour something such as a place or a book, you make a thorough search of it to try to find what you are looking for.四处搜索;细查 |
+  | ----- | ------------------------------------------------------------ |
+  |       |                                                              |
+
+- all-round 
+
+- adj. 多才多艺的；全面的；多方面的；综合性的
+
+- | monastery | n.A monastery is a building or collection of buildings in which monks live.寺院;隐修院 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
+
+- | valiant | adj.A valiant action is very brave and determined, though it may lead to failure or defeat.勇敢的;果决的;无畏的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+  vigorously
+
+- adv. 精神旺盛地，活泼地
+
+  ardently
+
+- adv. 热烈地；热心地
+
+  besieged
+
+- v. 被包围；被困扰（besiege的过去分词）
+
+- be besieged by .......  被......不断打扰
+
+  hollow
+
+- adj. 空的；中空的，空腹的；凹的；虚伪的
+
+- n. 洞；山谷；窟窿
+
+- vt. 使成为空洞
+
+- vi. 形成空洞
+
+- adv. 彻底地；无用地
+
+  reshuffle
+
+- v. 改组，进行岗位调整；重作安排；重新洗牌
+
+- n. 重新洗牌；改组
+
+  imminent
+
+- adj. 即将来临的；迫近的
+
+  ==conspicuously==
+
+- ==adv. 显著地，明显地；超群地，惹人注目地==
+
+  loophole
+
+- n. 漏洞；枪眼；换气孔；射弹孔
+
+- | dispel | v.To dispel an idea or feeling that people have means to stop them having it.驱散;消除 |
+  | ------ | ------------------------------------------------------------ |
+  |        |                                                              |
+
+- | ransack | v.If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.搜寻；搜遍；洗劫 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | adamant | adj.If someone is adamant about something, they are determined not to change their mind about it.坚决的;坚定不移的 |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
 - 
-- 
+
