@@ -1130,79 +1130,79 @@ E Daily Learning
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | chug | v.When a vehicle chugs somewhere, it goes there slowly, noisily and with difficulty.(车辆)突突地缓慢行驶 |
+- | chug | v. When a vehicle chugs somewhere, it goes there slowly, noisily and with difficulty.(车辆)突突地缓慢行驶 |
   | ---- | ------------------------------------------------------------ |
   |      |                                                              |
 
-- | whine | v.If something or someone whines, they make a long, high-pitched noise, especially one which sounds sad or unpleasant.尖叫;哀号;悲鸣 |
+- | whine | v. If something or someone whines, they make a long, high-pitched noise, especially one which sounds sad or unpleasant.尖叫;哀号;悲鸣 |
   | ----- | ------------------------------------------------------------ |
   |       |                                                              |
 
-- | rambling | adj.A rambling building is big and old with an irregular shape.（建筑）大而无当的，格局凌乱的 |
+- | rambling | adj. A rambling building is big and old with an irregular shape.（建筑）大而无当的，格局凌乱的 |
   | -------- | ------------------------------------------------------------ |
   |          |                                                              |
 
-- | feline | adj.Feline means belonging or relating to the cat family.猫的;猫科的 |
+- | feline | adj. Feline means belonging or relating to the cat family.猫的;猫科的 |
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | assail | v.If someone assails you, they criticize you strongly.猛烈抨击；强烈指责 |
+- | assail | v. If someone assails you, they criticize you strongly.猛烈抨击；强烈指责 |
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | winch | n.A winch is a machine which is used to lift heavy objects or people who need to be rescued. It consists of a drum around which a rope or chain is wound.绞车;卷扬机 |
+- | winch | n. A winch is a machine which is used to lift heavy objects or people who need to be rescued. It consists of a drum around which a rope or chain is wound.绞车;卷扬机 |
   | ----- | ------------------------------------------------------------ |
   |       |                                                              |
 
-- | lull | n.A lull is a period of quiet or calm in a longer period of activity or excitement.间歇期；平静期 |
+- | lull | n. A lull is a period of quiet or calm in a longer period of activity or excitement.间歇期；平静期 |
   | ---- | ------------------------------------------------------------ |
   |      |                                                              |
 
-- | musty | adj.Something that is musty smells old and damp.有霉味的;发霉的 |
+- | musty | adj. Something that is musty smells old and damp.有霉味的;发霉的 |
   | ----- | ------------------------------------------------------------ |
   |       |                                                              |
 
-- | immaculate | adj.If you describe something as immaculate, you mean that it is extremely clean, tidy, or neat.干净整洁的;纤尘不染的 |
+- | immaculate | adj. If you describe something as immaculate, you mean that it is extremely clean, tidy, or neat.干净整洁的;纤尘不染的 |
   | ---------- | ------------------------------------------------------------ |
   |            |                                                              |
 
-- | unduly | adv.If you say that something does not happen or is not done unduly, you mean that it does not happen or is not done to an excessive or unnecessary extent.过分地；过度地；不适当地；不必要地 |
-  | ------ | ------------------------------------------------------------ |
-  |        |                                                              |
+- | ==unduly== | adv. If you say that something does not happen or is not done unduly, you mean that it does not happen or is not done to an excessive or unnecessary extent.==过分地；过度地；不适当地；不必要地== |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
 
-- | glint | v.If something glints, it produces or reflects a quick flash of light.闪闪发光；闪亮 |
+- | glint | v. If something glints, it produces or reflects a quick flash of light.闪闪发光；闪亮 |
   | ----- | ------------------------------------------------------------ |
   |       |                                                              |
 
-- | dangle | v.If something dangles from somewhere or if you dangle it somewhere, it hangs or swings loosely.悬挂;悬摆 |
-  | ------ | ------------------------------------------------------------ |
-  |        |                                                              |
-
-- | bedraggled | adj.Someone or something that is bedraggled looks untidy because they have got wet or dirty.湿漉漉的；乱蓬蓬的；脏兮兮的 |
+- | ==dangle== | v. If something dangles from somewhere or if you dangle it somewhere, ==it hangs or swings loosely==.==悬挂;悬摆== |
   | ---------- | ------------------------------------------------------------ |
   |            |                                                              |
 
-- | petrify | v.If something petrifies you, it makes you feel very frightened.使吓呆；使惊呆 |
+- | bedraggled | adj. Someone or something that is bedraggled ==looks untidy because they have got wet or dirty.湿漉漉的；乱蓬蓬的；脏兮兮的== |
+  | ---------- | ------------------------------------------------------------ |
+  |            |                                                              |
+
+- | petrify | v. If something petrifies you, it makes you feel very frightened.使吓呆；使惊呆 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | burgle | v.If a building is burgled, a thief enters it by force and steals things.破门盗窃；入室盗窃 |
+- | burgle | v. If a building is burgled, a thief enters it by force and steals things.破门盗窃；入室盗窃 |
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | plaster | n.Plaster is a smooth paste made of sand, lime, and water which goes hard when it dries. Plaster is used to cover walls and ceilings and is also used to make sculptures.灰泥；灰浆；熟石膏 |
+- | plaster | n. Plaster is a smooth paste made of sand, lime, and water which goes hard when it dries. Plaster is used to cover walls and ceilings and is also used to make sculptures.灰泥；灰浆；熟石膏 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | unscrew | v.If you unscrew something such as a lid, or if it unscrews, you keep turning it until you can remove it.拧开；旋开 |
+- | unscrew | v. If you unscrew something such as a lid, or if it unscrews, you keep turning it until you can remove it.拧开；旋开 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | ==moor== | n.A moor is an area of open and usually high land with poor soil that is covered mainly with grass and heather.==(主要生长杂草和石南的)高原贫瘠之地，荒野，旷野== |
+- | ==moor== | n. A moor is an area of open and usually high land with poor soil that is covered mainly with grass and heather.==(主要生长杂草和石南的)高原贫瘠之地，荒野，旷野== |
   | -------- | ------------------------------------------------------------ |
   |          |                                                              |
 
-- | ==lurk== | v.If someone lurks somewhere, they wait there secretly so that they cannot be seen, usually because they intend to do something bad.==（通常指意图不轨地）潜伏，潜藏，埋伏== |
+- | ==lurk== | v. If someone lurks somewhere, they wait there secretly so that they cannot be seen, usually because they intend to do something bad.==（通常指意图不轨地）潜伏，潜藏，埋伏== |
   | -------- | ------------------------------------------------------------ |
   |          |                                                              |
 
@@ -1214,9 +1214,9 @@ E Daily Learning
 
   
 
-- inanimate 
+- ==inanimate==
 
-- adj. 无生命的；无生气的 .appearing dead; not breathing or having no perceptible pulse
+- adj. 无生命的；无生气的 .==appearing dead; not breathing or having no perceptible pulse==
 
   
 
@@ -1226,21 +1226,21 @@ E Daily Learning
 
 - at one stroke，at one fell swoop
 
-- | scour | v.If you scour something such as a place or a book, you make a thorough search of it to try to find what you are looking for.四处搜索;细查 |
-  | ----- | ------------------------------------------------------------ |
-  |       |                                                              |
+- | ==scour== | v. If you scour something such as a place or a book, you make a thorough ==search of it to try to find what you are looking for==.四处搜索;细查 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
 
 - all-round 
 
 - adj. 多才多艺的；全面的；多方面的；综合性的
 
-- | monastery | n.A monastery is a building or collection of buildings in which monks live.寺院;隐修院 |
+- | monastery | n. A monastery is a building or collection of buildings in which monks live.寺院;隐修院 |
   | --------- | ------------------------------------------------------------ |
   |           |                                                              |
 
-- | valiant | adj.A valiant action is very brave and determined, though it may lead to failure or defeat.勇敢的;果决的;无畏的 |
-  | ------- | ------------------------------------------------------------ |
-  |         |                                                              |
+- | ==valiant== | adj. A valiant action is very brave and determined, though it may lead to failure or defeat.勇敢的;果决的;无畏的 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
 
   vigorously
 
@@ -1290,13 +1290,31 @@ E Daily Learning
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | ransack | v.If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.搜寻；搜遍；洗劫 |
+- | ==ransack== | v.If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.==搜寻；搜遍；洗劫== |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | ==adamant== | adj.If someone is adamant about something, they are ==determined== not to change their mind about it.==坚决的==;坚定不移的 |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
+
+- | glisten | v.If something glistens, it shines, usually because it is wet or oily.（因湿润或油腻而）闪闪发光 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | adamant | adj.If someone is adamant about something, they are determined not to change their mind about it.坚决的;坚定不移的 |
-  | ------- | ------------------------------------------------------------ |
-  |         |                                                              |
+- | ==grapple== | v.If you grapple with a problem or difficulty, you ==try hard to solve it==.==努力解决（问题）；设法克服（困难）== |
+  | ----------- | ------------------------------------------------------------ |
+  |             |                                                              |
 
-- 
+- | ==unrelenting== | adj.If you describe someone's behaviour as unrelenting, you mean that they are continuing to do something ==in a very determined way, often without caring whether they hurt or embarrass other people==.==不顾一切的;不留情面的== |
+  | --------------- | ------------------------------------------------------------ |
+  |                 |                                                              |
+
+- | ==bedraggled== | adj.Someone or something that is bedraggled ==looks untidy== because they have got wet or dirty.==湿漉漉的；乱蓬蓬的；脏兮兮的== |
+  | -------------- | ------------------------------------------------------------ |
+  |                |                                                              |
+
+- | ==tramp== | n.A tramp is a person who has no home or job, and very little money. Tramps go from place to place, and get food or money by asking people or by doing casual work.流浪汉;流浪乞丐;游民 |
+  | --------- | ------------------------------------------------------------ |
+  |           |                                                              |
 
