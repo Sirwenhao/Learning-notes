@@ -1054,37 +1054,37 @@ E Daily Learning
   | -------------- | ------------------------------------------------------------ |
   |                |                                                              |
 
-- | insurmountable | adj.A problem that is insurmountable is so great that it cannot be dealt with successfully.无法解决的;难以克服的;不可逾越的 |
+- | insurmountable | adj. A problem that is insurmountable is so great that it cannot be dealt with successfully.无法解决的;难以克服的;不可逾越的 |
   | -------------- | ------------------------------------------------------------ |
   |                |                                                              |
 
-- | dweller | n.A city dweller or slum dweller, for example, is a person who lives in the kind of place or house indicated.居民;居住者 |
+- | dweller | n. A city dweller or slum dweller, for example, is a person who lives in the kind of place or house indicated.居民;居住者 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | arduous | adj.Something that is arduous is difficult and tiring, and involves a lot of effort.困难的；艰巨的；费力的 |
+- | arduous | adj. Something that is arduous is difficult and tiring, and involves a lot of effort.困难的；艰巨的；费力的 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | wheelbarrow | n.A wheelbarrow is a small open cart with one wheel and handles that is used for carrying things, for example in the garden.(园艺等用的) 手推车，独轮推车 |
+- | wheelbarrow | n. A wheelbarrow is a small open cart with one wheel and handles that is used for carrying things, for example in the garden.(园艺等用的) 手推车，独轮推车 |
   | ----------- | ------------------------------------------------------------ |
   |             |                                                              |
 
-- | dawdle | v.If you dawdle, you spend more time than is necessary going somewhere.闲逛;游荡 |
+- | dawdle | v. If you dawdle, you spend more time than is necessary going somewhere.闲逛;游荡 |
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | burgle | v.If a building is burgled, a thief enters it by force and steals things.破门盗窃；入室盗窃 |
+- | burgle | v. If a building is burgled, a thief enters it by force and steals things.破门盗窃；入室盗窃 |
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | unshakable | adj.If you describe someone's beliefs as unshakeable, you are emphasizing that they are so strong that they cannot be destroyed or altered.不可动摇的；坚定的 |
+- | unshakable | adj. If you describe someone's beliefs as unshakable, you are emphasizing that they are so strong that they cannot be destroyed or altered.不可动摇的；坚定的 |
   | ---------- | ------------------------------------------------------------ |
   |            |                                                              |
 
-- | tint | n.A tint is a small amount of colour.(少许)色彩；色调 |
-  | ---- | ----------------------------------------------------- |
-  |      |                                                       |
+- | tint | n. A tint is a small amount of color. (少许)色彩；色调 |
+  | ---- | ------------------------------------------------------ |
+  |      |                                                        |
 
 - | revulsion | n.Someone's revulsion at something is the strong feeling of disgust or disapproval they have towards it.深恶痛绝;强烈反对;嫌恶 |
   | --------- | ------------------------------------------------------------ |
@@ -1098,35 +1098,35 @@ E Daily Learning
   | -------- | ---------- |
   |          |            |
 
-- | ransack | v.If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.搜寻；搜遍；洗劫 |
+- | ransack | v. If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.搜寻；搜遍；洗劫 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | reprimand | v.If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.训斥;斥责;谴责 |
+- | reprimand | v. If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.训斥;斥责;谴责 |
   | --------- | ------------------------------------------------------------ |
   |           |                                                              |
 
-- | unsettle | v.If something unsettles you, it makes you feel rather worried or uncertain.使不安；使担心 |
+- | unsettle | v. If something unsettles you, it makes you feel rather worried or uncertain.使不安；使担心 |
   | -------- | ------------------------------------------------------------ |
   |          |                                                              |
 
-- | inscribe | v.If you inscribe words on an object, you write or carve the words on the object.写;刻;雕 |
+- | inscribe | v. If you inscribe words on an object, you write or carve the words on the object.写;刻;雕 |
   | -------- | ------------------------------------------------------------ |
   |          |                                                              |
 
-- | hoax | n.A hoax is a trick in which someone tells people a lie, for example that there is a bomb somewhere when there is not, or that a picture is genuine when it is not.恶作剧;假警报;骗局 |
+- | hoax | n. A hoax is a trick in which someone tells people a lie, for example that there is a bomb somewhere when there is not, or that a picture is genuine when it is not.恶作剧;假警报;骗局 |
   | ---- | ------------------------------------------------------------ |
   |      |                                                              |
 
-- | mammoth | adj.You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve.（改变）巨大的，重大的；（任务）庞大的，艰巨的 |
+- | mammoth | adj. You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve.（改变）巨大的，重大的；（任务）庞大的，艰巨的 |
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | assail | v.If someone assails you, they criticize you strongly.猛烈抨击；强烈指责 |
+- | assail | v. If someone assails you, they criticize you strongly.猛烈抨击；强烈指责 |
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
-- | muffle | v.If something muffles a sound, it makes it quieter and more difficult to hear.使(声音)低沉;使(音量)减弱 |
+- | muffle | v. If something muffles a sound, it makes it quieter and more difficult to hear.使(声音)低沉;使(音量)减弱 |
   | ------ | ------------------------------------------------------------ |
   |        |                                                              |
 
@@ -1302,19 +1302,41 @@ E Daily Learning
   | ------- | ------------------------------------------------------------ |
   |         |                                                              |
 
-- | ==grapple== | v.If you grapple with a problem or difficulty, you ==try hard to solve it==.==努力解决（问题）；设法克服（困难）== |
+- | ==grapple== | v. If you grapple with a problem or difficulty, you ==try hard to solve it==.==努力解决（问题）；设法克服（困难）== |
   | ----------- | ------------------------------------------------------------ |
   |             |                                                              |
 
-- | ==unrelenting== | adj.If you describe someone's behaviour as unrelenting, you mean that they are continuing to do something ==in a very determined way, often without caring whether they hurt or embarrass other people==.==不顾一切的;不留情面的== |
+- | ==unrelenting== | adj. If you describe someone's behaviour as unrelenting, you mean that they are continuing to do something ==in a very determined way, often without caring whether they hurt or embarrass other people==.==不顾一切的;不留情面的== |
   | --------------- | ------------------------------------------------------------ |
   |                 |                                                              |
 
-- | ==bedraggled== | adj.Someone or something that is bedraggled ==looks untidy== because they have got wet or dirty.==湿漉漉的；乱蓬蓬的；脏兮兮的== |
+- | ==bedraggled== | adj. Someone or something that is bedraggled ==looks untidy== because they have got wet or dirty.==湿漉漉的；乱蓬蓬的；脏兮兮的== |
   | -------------- | ------------------------------------------------------------ |
   |                |                                                              |
 
-- | ==tramp== | n.A tramp is a person who has no home or job, and very little money. Tramps go from place to place, and get food or money by asking people or by doing casual work.流浪汉;流浪乞丐;游民 |
+- | ==tramp== | n. A tramp is a person who has no home or job, and very little money. Tramps go from place to place, and get food or money by asking people or by doing casual work.流浪汉;流浪乞丐;游民 |
   | --------- | ------------------------------------------------------------ |
   |           |                                                              |
 
+- vogue
+- n. 时尚；流行，时髦   in vogue 正流行，正时兴
+- adj. 时髦的，流行的
+- n. (Vogue)人名；(葡)沃格
+
+- commonplace 
+- n. 司空见惯的事，普通的东西；老生常谈
+- adj. 平凡的，普通的；平庸的，陈腐的
+
+- | ransack | v. If people ransack a building, they damage things in it or make it very untidy, often because they are looking for something in a quick and careless way.==搜寻；搜遍；洗劫== |
+  | ------- | ------------------------------------------------------------ |
+  |         |                                                              |
+
+- | ==hoax== | n. A hoax is ==a trick in which someone tells people a lie==, for example that there is a bomb somewhere when there is not, or that a picture is genuine when it is not.==恶作剧;假警报;骗局== |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- | =untold= | adj. You can use untold to emphasize how bad or unpleasant something is.==（强调糟糕或令人不快的程度）无以名状的，难以估量的== |
+  | -------- | ------------------------------------------------------------ |
+  |          |                                                              |
+
+- 
